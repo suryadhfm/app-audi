@@ -1,0 +1,22 @@
+      <!DOCTYPE html>
+<html>
+    <head>
+        <title>THETECHASSIST</title> 
+        <link rel = "stylesheet" href = "./tech.css">
+    </head>
+    <body>
+        
+        <ul class = "a">
+        <li class="logo"><img src= "C:\Users\SAI\Downloads\images.PNG" alt = "main logo"/>
+        </li>
+            
+        <li><a href = "#home">Home</a></li>
+        <li><a href = "#service">Service</a></li>
+        <li><a href = "#contactus">Contactus</a></li>
+    </ul>
+    <img src= "C:\Users\SAI\Downloads\downlll.jpeg" alt = "main logo"/>
+
+
+    
+    </body>
+</html>
